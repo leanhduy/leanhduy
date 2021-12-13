@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leanhduy
-- 👀 I’m interested in Blockchain Developement
+- 👀 I’m interested in Blockchain Development
 - 🌱 I’m currently learning Vue.js, Next.js, React.js, Solidity, Web3.js, GoLang, MongoDB
 - 📫 How to reach me ...
 
