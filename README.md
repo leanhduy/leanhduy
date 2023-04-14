@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leanhduy
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning: Go, NextJS, TailwindCSS, MUI, Solidity, Rust
+- 👀 I’m interested in Python and the tech centered around Pthon
+- 🌱 I’m currently learning: Python, Vue 3, Bootstrap, Django, DjangoRestFramework, Pytest, Postgres, MySQL
 - 📫 How to reach me ...
 
 <!---
