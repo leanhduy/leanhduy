@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leanhduy
-- 👀 I’m interested in Python and the tech centered around Pthon
-- 🌱 I’m currently learning: Python, Vue 3, Bootstrap, Django, DjangoRestFramework, Pytest, Postgres, MySQL
+- 👀 I’m interested in Frontend Developement
+- 🌱 I’m currently learning: ReactJS, NextJS, Bootstrap, Javascript, Typescript, Postgres
 - 📫 How to reach me ...
 
 <!---
